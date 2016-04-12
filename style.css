@@ -1,0 +1,510 @@
+body {
+		padding: 0;
+		margin:0;
+	}
+	#track {
+		background: url(EoP-Lw5hduw.jpg);
+		width:205px;
+		height:400px;
+		border: 1px solid black;
+		position: relative;
+		margin:50px auto;
+		box-sizing: border-box;
+		overflow: hidden;
+	}
+	.auto {
+
+		width:25px;
+		height: 48px;
+		
+		border-radius: 10px;
+		position: absolute;
+
+		
+
+	}
+	.first {
+		background-color: red;
+		left: 5px;
+		top:0;
+		background: url(autos.png) -103px -6px no-repeat;
+		background-size: 200px 190px;
+		
+	}
+	.two {
+	
+		left: 47px;
+		top:0;
+		background: url(autos.png) -75px -3px no-repeat;
+		background-size: 200px 190px;
+		height:55px;
+		width: 26px;
+		border-radius: 6px;
+		
+	}
+	.fri {
+	
+		height:54px;
+		left: 88px;
+		top:0;
+		background: url(autos.png) -109px -56px no-repeat;
+		background-size: 200px 170px;
+		border-radius: 4px;
+		
+
+	}
+	.four {
+		
+		height:55px;
+		left: 130px;
+		top:0;
+		background: url(autos.png) -81px -59px no-repeat;
+		background-size: 200px 190px;
+		border-radius: 4px;
+		
+	}
+	.five {
+		
+		height:55px;
+		left: 172px;
+		top:0;
+
+		background: url(autos.png) -139px -96px no-repeat;
+		background-size: 200px 190px;
+
+		border-radius: 4px;
+		
+	}
+	.gamer {
+		background: url(8T_z95lCpck.png) -21px -11px no-repeat;
+		background-size: 400px 420px;
+		
+		top:350px;
+		left:80px;
+		text-align: center;
+		font-weight: bold;
+
+	}
+	#go {
+		width: 205px;
+		font: 30px black Arial;
+		height: 50px;
+		border-radius: 7px;
+		border: 2px solid black;
+		text-align: center;
+		line-height: 50px;
+		background-color: #E4FFDC;
+		margin: 10px auto;
+		transition: 0.5s;
+		cursor: pointer;
+
+	}
+	#go:hover {
+		background-color: #FFFFB9;
+		font-size: 35px;
+	}
+	#chetchik {
+		width:100px;
+		height:26px;
+		font:18px Arial;
+		color: #ccc;
+		text-align: center;
+		line-height: 26px;
+		position: absolute;
+		top:150px;
+		right:430px;
+		border: 1px solid black;
+
+	}
+	#conta {
+		width: 500px;
+		height: 70px;
+		display: block;
+		position: relative;
+		border:1px solid black;
+		
+	}
+	span {
+		border: 1px solid black;
+		border-top: 2px solid red;
+		background-size: 400px 420px;
+		position: absolute;
+		left:100px;
+		top:300px;
+		box-sizing: border-box;
+		display: block;
+		transform: rotate(-90deg);
+	}
+	.cars1 {
+		background: url(8T_z95lCpck.png)  -21px -11px no-repeat;
+		width:27px;
+		background-size: 400px 420px;
+		border-radius: 10px;
+		height: 55px;
+	}
+	.cars2 {
+		background: url(8T_z95lCpck.png)  -26px -130px no-repeat;
+		width:27px;
+		top:340px;
+		background-size: 400px 420px;
+		border-radius: 5px;
+		height: 55px;
+	}
+	.cars3 {
+		background: url(8T_z95lCpck.png)  -20px -195px no-repeat;
+		width:27px;
+		top:370px;
+		background-size: 400px 420px;
+		border-radius: 5px;
+		height: 55px;
+	}
+	.cars4 {
+		background: url(8T_z95lCpck.png)  -22px -68px no-repeat;
+		width:29px;
+		top:400px;
+		background-size: 400px 420px;
+		border-radius: 5px;
+		height: 55px;
+	}
+	.cars5 {
+		background: url(8T_z95lCpck.png)  -101px -65px no-repeat;
+		width:29px;
+		top:430px;
+		background-size: 400px 420px;
+		border-radius: 5px;
+		height: 55px;
+	}
+	.cars6 {
+		background: url(8T_z95lCpck.png)  -102px -130px no-repeat;
+		width:29px;
+		top:460px;
+		background-size: 400px 420px;
+		border-radius: 5px;
+		height: 55px;
+	}
+	.cars7 {
+		background: url(8T_z95lCpck.png)  -107px -190px no-repeat;
+		width:29px;
+		top:490px;
+		background-size: 400px 420px;
+		border-radius: 5px;
+		height: 55px;
+	}
+	.cars8 {
+		background: url(8T_z95lCpck.png)  -102px -10px no-repeat;
+		width:29px;
+		top:520px;
+		background-size: 400px 420px;
+		border-radius: 5px;
+		height: 55px;
+	}
+	.cars9 {
+		background: url(8T_z95lCpck.png)  -142px -67px no-repeat;
+		width:29px;
+		top:550px;
+		background-size: 400px 420px;
+		border-radius: 5px;
+		height: 55px;
+	}
+	.cars10 {
+		background: url(8T_z95lCpck.png)  -142px -128px no-repeat;
+		width:29px;
+		top:580px;
+		background-size: 400px 420px;
+		border-radius: 5px;
+		height: 55px;
+	}
+	.cars11 {
+		background: url(8T_z95lCpck.png)  -145px -195px no-repeat;
+		width:29px;
+		top:610px;
+		background-size: 400px 420px;
+		border-radius: 5px;
+		height: 55px;
+	}
+	.cars12 {
+		background: url(8T_z95lCpck.png)  -62px -195px no-repeat;
+		width:38px;
+
+		top:610px;
+		left:180px;
+		background-size: 400px 420px;
+		border-radius: 5px;
+		height: 50px;
+	}
+	.cars13 {
+		background: url(8T_z95lCpck.png)  -184px -67px no-repeat;
+		width:29px;
+		top:570px;
+		left:180px;
+		background-size: 400px 420px;
+		border-radius: 5px;
+		height: 55px;
+	}
+	.cars14 {
+		background: url(8T_z95lCpck.png)  -178px -123px no-repeat;
+		width:37px;
+		top:520px;
+		left:180px;
+		background-size: 400px 420px;
+		border-radius: 5px;
+		height: 70px;
+	}
+	.cars15 {
+		background: url(8T_z95lCpck.png)  -222px -67px no-repeat;
+		width:29px;
+		top:490px;
+		left:180px;
+		background-size: 400px 420px;
+		border-radius: 5px;
+		height: 55px;
+	}
+	.cars16 {
+		background: url(8T_z95lCpck.png)  -220px -9px no-repeat;
+		width:29px;
+		top:460px;
+		left:180px;
+		background-size: 400px 420px;
+		border-radius: 5px;
+		height: 55px;
+	}
+	.cars17 {
+		background: url(8T_z95lCpck.png)  -220px -130px no-repeat;
+		width:29px;
+		top:430px;
+		left:180px;
+		background-size: 400px 420px;
+		border-radius: 5px;
+		height: 55px;
+	}
+	.cars18 {
+		background: url(8T_z95lCpck.png)  -221px -195px no-repeat;
+		width:29px;
+		top:400px;
+		left:180px;
+		background-size: 400px 420px;
+		border-radius: 5px;
+		height: 55px;
+	}
+	.cars19 {
+		background: url(8T_z95lCpck.png)  -257px -195px no-repeat;
+		width:29px;
+		top:370px;
+		left:180px;
+		background-size: 400px 420px;
+		border-radius: 5px;
+		height: 55px;
+	}
+	.cars20 {
+		background: url(8T_z95lCpck.png)  -256px -132px no-repeat;
+		width:29px;
+		top:340px;
+		left:180px;
+		background-size: 400px 420px;
+		border-radius: 5px;
+		height: 55px;
+	}
+	.cars21 {
+		background: url(8T_z95lCpck.png)  -260px -66px no-repeat;
+		width:29px;
+		top:310px;
+		left:180px;
+		background-size: 400px 420px;
+		border-radius: 5px;
+		height: 55px;
+	}
+	.cars22 {
+		background: url(8T_z95lCpck.png)  -260px -7px no-repeat;
+		width:29px;
+		top:280px;
+		left:180px;
+		background-size: 400px 420px;
+		border-radius: 5px;
+		height: 55px;
+	}
+	.cars23 {
+		background: url(8T_z95lCpck.png)  -298px -66px no-repeat;
+		width:29px;
+		top:250px;
+		left:180px;
+		background-size: 400px 420px;
+		border-radius: 5px;
+		height: 55px;
+	}
+	.cars24 {
+		background: url(8T_z95lCpck.png)  -288px -316px no-repeat;
+		width:33px;
+		top:190px;
+		left:180px;
+		background-size: 400px 420px;
+		border-radius: 5px;
+		height: 95px;
+	}
+	.cars25 {
+		background: url(8T_z95lCpck.png)  -337px -316px no-repeat;
+		width:47px;
+		top:150px;
+		left:180px;
+		background-size: 400px 420px;
+		border-radius: 5px;
+		height: 95px;
+	}
+	.cars26 {
+		background: url(8T_z95lCpck.png)  -199px -316px no-repeat;
+		width:35px;
+		top:110px;
+		left:180px;
+		background-size: 400px 420px;
+		border-radius: 5px;
+		height: 95px;
+	}
+	.cars27 {
+		background: url(8T_z95lCpck.png)  -154px -316px no-repeat;
+		width:35px;
+		top:70px;
+		left:180px;
+		background-size: 400px 420px;
+		border-radius: 5px;
+		height: 95px;
+	}
+	.cars27 {
+		background: url(8T_z95lCpck.png)  -56px -316px no-repeat;
+		width:35px;
+		top:70px;
+		left:100px;
+		background-size: 400px 420px;
+		border-radius: 5px;
+		height: 95px;
+	}
+
+
+	#krug {
+		position: absolute;
+		width:2px;
+		height: 2px;
+		left:102px;
+		top:200px;
+		border-radius: 50%;
+		background-color: red;
+		transition: 2s;
+		
+
+	}
+	.ht {
+		
+		
+	display: block;
+	position: absolute;
+		font-size:40px;
+		color: #2A2A2A;
+ 	text-shadow: #1F1F1F 0 0 10px; 
+ 	transform: rotate(0deg);
+ 	font-family: 'Abel', sans-serif;
+ 	font-weight: bold;
+ 	transition: 1.2s;
+ 	border:none;
+ 	z-index: 5;
+	}
+	.sec1{
+		 /* 
+		top:150px;
+		left: 5px; */
+		left: 5px;
+		top:-50px;
+
+	}
+	.sec2{
+		/* 
+		top:150px;
+		left: 35px;*/
+		left: 35px;
+		top: 400px;
+
+
+	}
+	.sec3{
+		/* 
+		top:150px;
+		left: 75px;*/
+		left: 75px;
+		top: -50px;
+
+
+	}
+	.sec4{
+		/* 
+		top:150px;
+		left: 110px;*/
+		left: 110px;
+			top: 400px;
+
+
+	}
+	.sec5{
+		/* 
+		top:150px;
+		left: 140px;*/
+		left: 140px;
+		top: -50px;
+	}
+	.sec6{
+		/* 
+		top:150px;
+		left: 170px;*/
+		left: 170px;
+			top: 400px;
+
+	}
+	.bonus {
+		position: absolute;
+		width: 30px;
+		height:30px;
+		background-color: red;
+	
+		animation-duration: 8s;
+		animation-name: mymove;
+		animation-timing-function: linear;
+		animation-iteration-count: infinite; 
+
+	}
+
+	
+	@keyframes mymove {
+from {transform: rotate(0deg);}
+
+to {transform: rotate(360deg);}
+}
+#cherep {
+	width: 60px;
+	height:60px;
+
+	position: absolute;
+	left:800px;
+	top:200px;
+	background: url(dT6yrpaT9.png);
+	background-size: 60px 60px;
+}
+.crusade {
+	width:205px;
+	height:250px;
+	position: absolute;
+	top: 0;
+	left:0;
+	z-index: 3;
+	transition: 2.4s;
+}
+.crus1 {
+	background: url(dver1.png) no-repeat;
+	/* top: 0px;*/
+	top: -220px;
+
+}
+.crus2 {
+	background: url(dver32.png) no-repeat;
+	/* top: 150px;*/
+	top:370px;
+	background-position: 0 -150px;
+	
+
+
+}
